@@ -7,4 +7,4 @@ With a solid foundation in JavaScript, I specialize in developing web applicatio
 
 ### Social Links
 
-<i class="fab fa-linkedin-in"></i>
+<i class="fab fa-linkedin-in">Syed Muhmmad Ali Raza</i>
